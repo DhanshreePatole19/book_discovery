@@ -1,0 +1,2 @@
+F:/receiver/android/app/.cxx/Debug/1k2cwuh6/x86/CMakeFiles/edit_cache.dir
+F:/receiver/android/app/.cxx/Debug/1k2cwuh6/x86/CMakeFiles/rebuild_cache.dir

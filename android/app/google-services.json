@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "296534550417",
+    "project_id": "books-discovery-261ff",
+    "storage_bucket": "books-discovery-261ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296534550417:android:1072ea1b9b162dc6a51c30",
+        "android_client_info": {
+          "package_name": "com.example.receiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296534550417-tmgd5iu24rpik8kqt9tlptnqmff0q6vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.receiver",
+            "certificate_hash": "d70ba16aab8de7fc0369bcacaba55e4a67908464"
+          }
+        },
+        {
+          "client_id": "296534550417-pi4kgglfu9jbb8c4k8b34e9ch1e12s7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw4eAWM1a-lkR9nIO3KdkiYPKLZTnSOiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296534550417-pi4kgglfu9jbb8c4k8b34e9ch1e12s7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
